@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Post Viewer</string>
+    <string name="title_activity_post_details">PostDetailsActivity</string>
+    <string name="title_label">Title</string>
+    <string name="author_label">Author</string>
+    <string name="comments_label">Comments</string>
 </resources>
